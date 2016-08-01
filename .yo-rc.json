@@ -1,0 +1,11 @@
+{
+  "generator-ng-fullstack": {
+    "username": "some-username-here",
+    "appName": "goweb",
+    "stack": "fullstack",
+    "server": "go",
+    "client": "ng2",
+    "secure": false,
+    "differentStaticServer": false
+  }
+}
